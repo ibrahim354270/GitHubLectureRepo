@@ -6,6 +6,8 @@ public class Class01 {
         //Versiyon 2 Kodlari
         System.out.println("Versiyon2");
 
+        //Versiyon 3 Kodlari (hatali kodlar..)
+        System.out.println("Hatali Kodlar");
     }
 
 
